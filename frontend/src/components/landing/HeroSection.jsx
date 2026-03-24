@@ -47,7 +47,7 @@ export const HeroSection = () => {
           >
             Discover the
             <span className="block mt-1">
-              <span className="italic text-primary">Art</span> of Cooking
+              <span className="italic text-primary">Art</span> of Me
             </span>
           </motion.h1>
 
